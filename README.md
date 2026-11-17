@@ -50,7 +50,7 @@ not buy straight back into the same whipsaw.
 
 ## Files
 
-- `main.py` — the bot (Python 3.13, standard library only).
+- `main.ts` — the bot (Node 22, TypeScript with erasable syntax only).
 - `vendor/makefun_bars.py` — the kit's protocol shim, byte-identical.
 - `LICENSE` — MIT.
 
